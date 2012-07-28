@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\MtGCounter.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\MtGCounter.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\MtGCounter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\bin\Debug\MtGCounter.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\bin\Debug\MtGCounter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\bin\Debug\MtGCounter.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\mtgcounter.main.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\mtgcounter.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\GenerateResource.write.1.tlog

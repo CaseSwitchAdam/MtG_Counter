@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MtGCounter", "MtGCounter\MtGCounter.vbproj", "{9BB7CC9F-4C7B-4DE6-8B54-7C925F282077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB7CC9F-4C7B-4DE6-8B54-7C925F282077}.Debug|x86.ActiveCfg = Debug|x86
+		{9BB7CC9F-4C7B-4DE6-8B54-7C925F282077}.Debug|x86.Build.0 = Debug|x86
+		{9BB7CC9F-4C7B-4DE6-8B54-7C925F282077}.Release|x86.ActiveCfg = Release|x86
+		{9BB7CC9F-4C7B-4DE6-8B54-7C925F282077}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

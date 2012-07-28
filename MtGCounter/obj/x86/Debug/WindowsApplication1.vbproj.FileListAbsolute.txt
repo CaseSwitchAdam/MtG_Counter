@@ -1,0 +1,11 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\mtgcounter.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\mtgcounter.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\mtgcounter.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\mtgcounter.main.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\mtgcounter.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\mtgcounter.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\mtgcounter.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\mtgcounter.pdb

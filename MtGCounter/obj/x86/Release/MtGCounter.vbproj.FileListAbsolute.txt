@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\bin\Release\MtGCounter.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\bin\Release\MtGCounter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\bin\Release\MtGCounter.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Release\mtgcounter.main.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Release\mtgcounter.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Release\MtGCounter.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Release\MtGCounter.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Release\MtGCounter.pdb
