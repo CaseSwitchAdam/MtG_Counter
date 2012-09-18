@@ -9,3 +9,12 @@ C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCount
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\mtgcounter.Resources.resources
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MtGCounter\MtGCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\obj\x86\Debug\MtGCounter.exe
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\obj\x86\Debug\MtGCounter.xml
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\obj\x86\Debug\MtGCounter.pdb
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\bin\Debug\MtGCounter.exe
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\bin\Debug\MtGCounter.pdb
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\bin\Debug\MtGCounter.xml
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\obj\x86\Debug\mtgcounter.main.resources
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\obj\x86\Debug\mtgcounter.Resources.resources
+D:\Lukke\Workspace\MtG_Counter\MtGCounter\obj\x86\Debug\MtGCounter.vbproj.GenerateResource.Cache

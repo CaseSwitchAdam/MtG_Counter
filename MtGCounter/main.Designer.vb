@@ -361,6 +361,7 @@ Partial Class main
         '
         'player1update
         '
+        Me.player1update.ForeColor = System.Drawing.Color.Black
         Me.player1update.Location = New System.Drawing.Point(32, 106)
         Me.player1update.Name = "player1update"
         Me.player1update.Size = New System.Drawing.Size(64, 32)
@@ -585,7 +586,9 @@ Partial Class main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(48, Byte), Integer), CType(CType(48, Byte), Integer), CType(CType(48, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(442, 484)
+        Me.ControlBox = False
         Me.Controls.Add(Me.timereset)
         Me.Controls.Add(Me.Startstop)
         Me.Controls.Add(Me.ticker)
@@ -637,7 +640,7 @@ Partial Class main
         Me.Controls.Add(Me.player1add)
         Me.Cursor = System.Windows.Forms.Cursors.Arrow
         Me.ForeColor = System.Drawing.Color.Black
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "main"
